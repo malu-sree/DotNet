@@ -64,6 +64,7 @@ namespace EcommerceApp
             {
                 Console.WriteLine($"Product:{cartItem[i].Name} And  Price: {cartItem[i].Price}");
                 total += (int)cartItem[i].Price;
+                
 
             }
             Console.WriteLine($"Total Price: {total}");
