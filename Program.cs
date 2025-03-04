@@ -84,8 +84,8 @@ namespace EcommerceApp
 
             while (true)
             {
-                Console.WriteLine("Welcome to Ecommerce App");
-                Console.WriteLine("1. Display Products");
+                Console.WriteLine("\nWelcome to Ecommerce App");
+                Console.WriteLine("\n1. Display Products");
                 Console.WriteLine("2. Add to Cart");
                 Console.WriteLine("3. Display Cart");
                 Console.WriteLine("4. Exit");
